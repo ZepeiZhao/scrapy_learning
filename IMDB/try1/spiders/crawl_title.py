@@ -1,6 +1,3 @@
-# code for ds558 hw01_title
-# tested
-
 import scrapy
 from try1.items import Try1Item
 from scrapy.crawler import CrawlerProcess
